@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./banner-lirios.gif" alt="Lírios digitais abrindo e fechando" width="100%">
+</div>
+<div align="center">
 
 # Olá, eu sou Ana Marly Couto! ✨
 
